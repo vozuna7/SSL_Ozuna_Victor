@@ -1,0 +1,10 @@
+0xFF 	 	 Hexadecimal 
+127 	 	 Decimal 
+0159 	 	 No reconocido 
+0xaBb1 	 	 Hexadecimal 
+0Xx 	 	 No reconocido 
+0 	 	 Octal 
+010 	 	 Octal 
+09 	 	 No reconocido 
+127A 	 	 No reconocido 
+120AH 	 	 Decimal 
